@@ -1,0 +1,11 @@
+body{
+    background-color: #1C0C5B;
+}
+
+.header .logoheader .name{
+    background-color: #916BBF;
+    display: flex;
+    justify-content: center;
+    -ms-flex-item-align: start;
+   
+}
